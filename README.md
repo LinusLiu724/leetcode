@@ -10,6 +10,8 @@
 
 ### 3、**`跳水板`** divingBoard 
 
+### 3、**`1025. 除数博弈`** divisorGame 
+
 
 
 Webrtc国内源码镜像地址：
